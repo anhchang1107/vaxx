@@ -2,11 +2,11 @@
     "version": 1,
     "plugins": [
         {
-            "id": "kkphim_api",
+            "id": "kkphim_HZ",
             "name": "KKPhim API",
             "version": "1.0.1",
             "scriptUrl": "https://raw.githubusercontent.com/anhchang1107/vaxx/refs/heads/main/kkphim_plugin.js",
-            "iconUrl": "https://kkphim1.com/uploads/images/logo.png"
+            "iconUrl": ""https://raw.githubusercontent.com/youngbi/repo/main/plugins/kkphim.png"
         }
     ]
 }
