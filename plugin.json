@@ -4,7 +4,7 @@
         {
             "id": "kkphim_api",
             "name": "KKPhim API",
-            "version": "1.0.0",
+            "version": "1.0.1",
             "scriptUrl": "https://raw.githubusercontent.com/anhchang1107/vaxx/refs/heads/main/kkphim_plugin.js",
             "iconUrl": "https://kkphim1.com/uploads/images/logo.png"
         }
